@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter withovt any superscription, intercepted in the way to London published that the poore people of England may see the intentions of those whom they have followed.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25920</idno><idno type="EEBO-CITATION">12175015</idno>
+  <idno type="VID">197009</idno>
+  <idno type="EEBO-PROQUEST">2248542021</idno>
+  
+            <idno type="STC">Wing L1757</idno>
+            <idno type="OCLC">12175015</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197009)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E86, no 31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter withovt any superscription, intercepted in the way to London published that the poore people of England may see the intentions of those whom they have followed.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Apparently designed to disillusion people with the aims of the Parliamentary faction in the Civil War.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197009:1"/>
+            <p>A LETTER WITHOVT Any Superscription, Intercepted in the way to <hi>LONDON.</hi>
+            </p>
+            <p>Published, that the poore people of <hi>England</hi> may see the intentions of those whom they have followed</p>
+            <p>Printed in the Yeare, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:197009:2"/>
+            <head>A Letter without any superscription, intercepted in the way to LONDON.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VVE could not till now send you an Answer of your Letter with any account of our service; for besides the danger of conveyance to you, (it being easier to passe through the <hi>Cava<g ref="char:EOLhyphen"/>liers,</hi> whom a merry Tale or two of the <hi>Roundheads,</hi> presently reconciles to us, then through our Army; your Souldiers being so unruly, that they call our good Lord Major nothing but <hi>faith<g ref="char:EOLhyphen"/>full Isaack;</hi> and as familiarly rob those who have his Passe, as you would have them doe the Papists.) The truth is, our mee<g ref="char:EOLhyphen"/>tings are not so easie or so safe as they have beene, by reason many places of the three Counties, even where they seemed to come readily into the Association, grow every day malignant, insomuch, that ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ting, which you know should have bin the Thursday before the Fast, that so, upon perusall of your In<g ref="char:EOLhyphen"/>structions, we might have agreed in what manner to have wor<g ref="char:EOLhyphen"/>ked upon our Auditories that day; we came not together till Munday, and then wanted the information of our friends of <hi>Glocester,</hi> and the assistance of our brother by <hi>Warwick</hi> neither of which came to us so that our Counsels and Resolutions want much of that vigour and perfection you might have expected, which we hope shall be supplyed when the Lord shall bring us next together. In the meane time we give you such advertise<g ref="char:EOLhyphen"/>ments, and offer such Propositions to your consideration, as in so short a time (for we parted the next morning) could be dis<g ref="char:EOLhyphen"/>gested,</p>
+            <p>We are much afflicted at the Distractions above; you must take the more care to suppresse the Munity, and to compose all private differences, lest if the people, upon whose weakenesse we have wrought to advance the wonderfull things we have designed, should now be as mad against us, as they were for us; and having beene taught by us to throw stones at the Bishops
+<pb n="3" facs="tcp:197009:2"/> and their Adherents, should now learne of themselves to teare us in pieces; and if feares and jealousies, with which we have corrupted mens loyalty to the King, shall now divide us a<g ref="char:EOLhyphen"/>mongst our selves, and make us feare and hate one another: though such accidents may fall out by the subtilty of our ene<g ref="char:EOLhyphen"/>mies, yet the wicked will make the people thinke it a judge<g ref="char:EOLhyphen"/>ment of God Almighty, the beleeving of which will doe us more mischiefe, then the thing it selfe.</p>
+            <p>Our neighbour who went so long with us, and you know is of so great power with the Countrey, by his notable opposing of Ship-money, and all the high courses of that time, doth us now mighty hurt, by telling the people what the Law is, and that all you doe is against Law. He said openly before much company the other day, <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t when your declaring fit was upon you, you cared neither for God nor man.</hi> We desire you to consi<g ref="char:EOLhyphen"/>der, whether it be not fit speedily to send for him, and to keep him in safe custody, with the other bad instruments you have taken from many places; or because there may be many more such mischievous persons in other Counties, and since you have declared away the twentieth part of their estates from them, most men begin villanously to enquire how the Law stands; whether it be not now time to declare, That being intrusted by the whole Kingdome, rather to improve their Condition, and provide new Liberties and Priviledges for them, then dul<g ref="char:EOLhyphen"/>ly to take care that they be onely as happy as their fore-fathers; you intend to avoyd all the old Lawes, and to make better in their places, and that hereafter you will be no more swayed by what is lawfull, but what is fit. Besides, that you have pretty well prepared people to looke for it, by those excellent Argu<g ref="char:EOLhyphen"/>ments you prescribed for the taking away of the Kings negative voyce; you will by this finde away by degrees to fall in your expressions of duty to His Majestie, which seeme rather to make against you then for you, when they appeare not to come from your heart; and when you have once intimated and com<g ref="char:EOLhyphen"/>municated your purpose of making a reall alteration in the go<g ref="char:EOLhyphen"/>vernment, no body can imagine the King is to continue as good a man as he is now, and so any disrespect towards him will be the more popular and allowed.</p>
+            <pb n="4" facs="tcp:197009:3"/>
+            <p>This Consideration we rather present to you as a hint for your grave wisedomes to debate and enlarge, then as any for<g ref="char:EOLhyphen"/>med opinion of our owne, which we presume not to deliver; and with the same submission offer these following <hi>Quae<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e's</hi> to your better Resolution.</p>
+            <p n="1">1. Whether in regard very many persons are scandalized at the continuance of this Parliament, whereby they are out of hope to be admitted to the service of their Countrey; and ma<g ref="char:EOLhyphen"/>ny of our owne dearest friends would be glad to have a more immeditate hand in the wonderfull things which are done, and to have the liberty for the bettering their understanding, to make some experiments upon the Commonwealth too, it be not fit to declare, that though you never intend that this Parliament shall be dissolved, yet by an Ordinance of both Houses you will adjourne every yeare for the space of forty days; during which time, every County and Burrough shall make a new election, by a Warrant under the <hi>Speakers</hi> hand, whereby good men may take their turnes in the service, and you be quit of those who will not for feare or love be of your mindes; or if there cannot safely be so long a Vacation, lest the Law might then come in credit againe and oppresse us; or if there be any doubt, that if the Countrey were once rid of many of the principall Mem<g ref="char:EOLhyphen"/>bers, it would never choose them againe; Whether for the present it were not fit by Ordinance to enable some good con<g ref="char:EOLhyphen"/>fiding townes, as <hi>Hull, Glocester,</hi> and any other place in which you have Garrisons, to send foure or sixe Burgesses: Since you have setled the standing Committee, and by that means brought all businesse into a few hands, you need not care how many you admit to the House, which is the onely objection against the later.</p>
+            <p n="2">2. Seeing the people are perswaded to follow us by no Ar<g ref="char:EOLhyphen"/>gument more then by making them beleeve, that what we doe is in opposition to Popery; whether it be not fit to declare all such who come not in and submit by such a day to be Papists.</p>
+            <p n="3">3. Whether it be not time to publish some Ordinance a<g ref="char:EOLhyphen"/>gainst the Booke of <hi>Common-Prayer,</hi> that the spirit may have freedome and estimation; and whether it be not fit to ordaine,
+<pb n="5" facs="tcp:197009:3"/> that any man of gifts may preach and teach in any places; for though the same be permitted, it will not be of that efficacy till it receive some countenance from publique Authority.</p>
+            <p n="4">4. Whether it be not yet time to declare your intentions of levelling degrees, that the common people may take the more heart to second you; and if so, whether it be fit to passe some Vote on the behalfe of those few Noblemen and Persons of quality, whom you have found true to you, or to secure their persons, and transferre the trusts you have committed to them to men of our owne condition; for as you could never have gotten the Kings Navie, if there had not beene first care taken to have removed so many Gentlemen from command, and to preferre Skippers and watermen to their places; so you will never settle a through Reformation on Land, till you have removed all Noblemen and Gentlemen from pretending to pri<g ref="char:EOLhyphen"/>ority in respect of their quality.</p>
+            <p n="5">5. Whether it be not fit to publish some Declaration or Vote of both Houses against morall honesty, as well to discre<g ref="char:EOLhyphen"/>dit those people, who upon their reputation of living well, op<g ref="char:EOLhyphen"/>pose the common cause with more credit and advantage with the people; as for the countenance of such, who notwithstan<g ref="char:EOLhyphen"/>ding their vitious and deboshed lives, are great promoters or assistants of the good worke in hand; which in many places is thought the worse of, for the knowne villany and dishonesty of the Factors.</p>
+            <p n="6">6. Since the Reformation of the Church Government, is not like to be finished in a long time, especially if the Ceremony of the Kings consent to what you enact shall be thought worth the staying for; so that Superstition is like to grow and con<g ref="char:EOLhyphen"/>tinue amongst us, whether it may not be fit by an Ordinance of Parliament to make all such children incapable to inherit, who from this time shall be Christned with the signe of the Crosse; which may strike such a terrour into their Parents, who by seeing the strange things you have done within this last year, will beleeve you may be as good as your words hereafter too, that they will rather not Christen them at all, then incurre the censure of the two Houses.</p>
+            <p n="7">7. Since you have now published your dislike, and hatred
+<pb n="6" facs="tcp:197009:4"/> of all Newters, and such who would willingly looke on, and grow wise at your charge, without being as deepe in as your selves; and that you resolve to proceed against all such as ene<g ref="char:EOLhyphen"/>mies to the publique Peace, according to your discretion; whether it be not time to define your termes of Art, and to de<g ref="char:EOLhyphen"/>clare, That by <hi>Evill Councellours,</hi> you intend all those who presume to speake or thinke ill of any Member of either House; or of any person imployed by them: By <hi>Malignant,</hi> all such who beleeve, that more obedience is to be given to the Acts of former Parliaments, then to the Orders and Votes of this, and so shew their wit in stead of their duty, to the infecting and troubling many well disposed mindes in the publique ser<g ref="char:EOLhyphen"/>vice. And by <hi>Cavalier,</hi> all those who impiously desire to pre<g ref="char:EOLhyphen"/>serve the degrees and distinction of men, and thinke that any learning or education can enable them to judge of Reason, Sense, and Iustice, as well as the representative body of the Kingdome. Lastly, that by <hi>Popishly affected,</hi> you intend all those of the Clergie and Layty who doe not abhorre the pre<g ref="char:EOLhyphen"/>sent Government of the Church, and thinke that any set forme of Prayer can equally be to the edification of the People, as the dictates of the Spirit; that so the weake people of the Country, who cannot so well conceive your meaning, as they that are wiser may know whom they are to be against, and so without gathering into great bodies, may do your worke in Villages by destroying your Enemies as they meete with them, as well as if they came in thousands to his Excellencie.</p>
+            <p n="8">8. Because the imprisoning of men is an impropular thing, not as 'tis ualawfull, but as it takes away Liberty, which people of all sorts desire; and because the Country and the Cavaliers are like to fill all your City Prisons, notwithstanding the large addition of receipt you have made for such purposes: whether for the substantiall Citizens and Inhabitants of London, you were not better put people of honesty and trust into their hou<g ref="char:EOLhyphen"/>ses to overlooke them, by Order of both Houses, as in the case of a Malignant Shop-keeper, by Ordinance of Parliament to make a Brother of the same Trade his fore-man, allowing him such wages as you thinke fit, whereby you shall know all the
+<pb n="7" facs="tcp:197009:4"/> secrets of the house, and such honest men for whom you are bound to provide many opportuities to doe themselves good too.</p>
+            <p n="9">9 Whether consideration should not be taken, that all great marriages of great Heites, and rich Widdowes, be disposed by Ordinance of both Houses, for the encouragement of well<g ref="char:EOLhyphen"/>affected Persons, and that those wordly and temporall bles<g ref="char:EOLhyphen"/>sings may alwaies be sure to follow the Houshold of Faith.</p>
+            <p n="10">10 Since most of our friends are put out of the Commissions of Peace in all Counties, and others put in, who endeavour to discountenance your proceedings, and the Country people will yet pay some regard and respect to those places; whether it be not fit to make a standing Committee in every County, who un<g ref="char:EOLhyphen"/>der pretence of the service of the House, and upholding the Priviledges of Parliament, may take notice of all matters, and send for all Persons according to their discretion, and so the Kings Authority, and the Kings friends shall quickly be sup<g ref="char:EOLhyphen"/>pressed, and dis-regarded.</p>
+            <p n="11">11 Whether it be not fit to publish some Declaration of both Houses of the nature of Treason, that wel disposed people be not disturbed with the vulgar interpretation of the Law in that point, in which care must be taken not to leave the Prince in a better condition then his father, but as you have provi<g ref="char:EOLhyphen"/>dently distinguished in the Kings case between his Person, and his Office, thereby enabling men without danger of the Law to conspire the death of the King in the behalfe of his office; So that some other way may be found to interpret the like at<g ref="char:EOLhyphen"/>tempts upon the Prince who hath no office, in such a manner, that the Subject may not be more restrained from exercising his Conscience upon him, then upon the King, which else will be a great disheartning to the present inclinations.</p>
+            <p>Lastly, since many men are troubled at the Oathes of Alle<g ref="char:EOLhyphen"/>giance and Supremacie, which they tooke long since, when they had no hope that the truth would have beene manifested thus cleerely to them, and of which Our Enemies seem to have such Advantage upon their conscience; whether it be not fit first by the Resolution of some godly Ministers to absolve them
+<pb n="8" facs="tcp:197009:5"/> of those very Oathes, as beene unprofitably done in the busi<g ref="char:EOLhyphen"/>nesse of Brainceford by these two Lamps of our Religion, the Reverend <hi>Downing,</hi> and <hi>Marshall,</hi> and for the future by an Ordinance of both Houses to enjoyne all men to take the same oathes againe <hi>(mutatis mutandis)</hi> to his Excellency for the time being; for whilest you make any mention of the Kings person in any oath or protestation, the foolish people will be apt to beleeve you intend some regard to him, and so are ea<g ref="char:EOLhyphen"/>sily discouraged in the duty of their severall callings.</p>
+            <p>These considerations were the effect of our hasty consulta<g ref="char:EOLhyphen"/>tions, which we desire you with our humble respects to pre<g ref="char:EOLhyphen"/>sent to <hi>the Worthies,</hi> whether they (or some of them) are fit yet to be put in execution, we must leave to you, who are upon the place, and can onely judge what is seasonable to be done; onely we must say this, that it is necessary to lay out some new Baite for the people; and we conceive it will be bet<g ref="char:EOLhyphen"/>ter to perswade them that Peace is not good for them (which may be improved by many pretty arguments) then to endea<g ref="char:EOLhyphen"/>vour to make them beleeve that you endeavour to procure it. and that the King refuses to grant it. Above all, be sure you never give over calling for Delinquents, nor admit any way of Tryall to them, but your owne Votes; for if you shall once al<g ref="char:EOLhyphen"/>low them any Rule to be tryed by, every body will take upon them to censure your judgements, and thinke themselves as wise as you, which is the greatest breach of Priviledge that can be imagined.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
